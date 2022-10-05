@@ -1747,6 +1747,10 @@
           <int>9</int>
         </entry>
         <entry>
+          <string>Label</string>
+          <string>MICROCODE</string>
+        </entry>
+        <entry>
           <string>Bits</string>
           <int>16</int>
         </entry>
