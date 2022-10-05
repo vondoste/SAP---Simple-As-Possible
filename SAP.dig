@@ -1128,7 +1128,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>CLK</string>
+          <string>~CLK</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="120"/>
