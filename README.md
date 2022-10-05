@@ -12,15 +12,26 @@ You will need to click the "AUTO" switch to manual mode again, then hit "RESET" 
 The instructions are in a 2 nybble format, the first nybble is the opcode and the second nybble is the argument.
 
 opcodes
+
 0H = NOP
+
 1H = LDA (load A from argument address)
+
 2H = ADD (add to A from argument address)
+
 3H = SUB (subtract from A from argument address)
+
 4H = STA (store A to argument address)
+
 5H = LDI (load A with argument (immediate) value)
+
 6H = JMP (jump to argument address)
+
 7H = JC  (jump to argument address if carry flag is 1)
+
 8H = JZ  (jump to agrument address is zero flag is 1)
+
 EH = OUT (write A to output register to display bits on LEDs)
+
 FH = HLT (latch the clock in a disabled state.  Can be cleared by hitting the "RESET" button)
 
