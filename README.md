@@ -1,5 +1,5 @@
 # SAP---Simple-As-Possible
-A model of the Simple as Possible CPU model
+A model of the Simple as Possible CPU model executed in DIGITAL.
 
 It starts with the "AUTO" switch in manual mode.
 click on the "CLEAR" switch and then click the "STEP" button twice to zero out the program counter and the step counter.
